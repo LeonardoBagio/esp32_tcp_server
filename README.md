@@ -40,14 +40,27 @@
 
 ### Comandos da aplicação
 
-Temperatura  --->   TEMP
-
-Umidade      --->   UMID
-
-Distância    --->   DIST
+<table>
+    <tr>
+        <th>Opção</th>
+        <th>Comando</th>
+    </tr>
+    <tr>
+        <td>Temperatura</td>
+        <td>TEMP</td>
+    </tr>
+    <tr>
+        <td>Umidade</td>
+        <td>UMID</td>
+    </tr>
+    <tr>
+        <td>Distância</td>
+        <td>DIST</td>
+    </tr>
+</table>
 
 
 ### TCP Terminal
 Configure o ip e porta clicando no ícone de engrenagem
 
-![tcpt](img-readme/tcp1.jpg)    ![tcpt1](img-readme/tcp2.jpg)
+<img src="img-readme/tcp1.jpg" alt="" height="25%" width="25%"> <img src="img-readme/tcp2.jpg" alt="" height="25%" width="25%">
