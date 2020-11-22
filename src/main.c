@@ -25,9 +25,9 @@
 #endif
 
 #define PORT CONFIG_EXAMPLE_PORT
-#define DHT_GPIO                    GPIO_NUM_0
-#define TRIG                        GPIO_NUM_2
-#define ECHO                        GPIO_NUM_14
+#define DHT_GPIO                    GPIO_NUM_14
+#define TRIG                        GPIO_NUM_0
+#define ECHO                        GPIO_NUM_2
 #define MAX_DISTANCE_CM             500
 
 static const dht_sensor_type_t sensor_type = DHT_TYPE_DHT11;
